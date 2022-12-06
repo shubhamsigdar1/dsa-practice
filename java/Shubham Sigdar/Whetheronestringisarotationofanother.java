@@ -1,4 +1,4 @@
-package DSA.Array;
+// package DSA.Array;
 
 // str1 = "abcde", str2 = "deabc"
 

@@ -1,4 +1,4 @@
-package DSA.Array;
+// package DSA.Array;
 
 public class MatrixDiagonalSum {
     public int diagonalSum(int[][] mat) {

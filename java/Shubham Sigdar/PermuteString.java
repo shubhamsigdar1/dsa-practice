@@ -1,4 +1,4 @@
-package DSA.Array;
+// package DSA.Array;
 
 public class PermuteString {
     public static String swapString(String a, int i, int j) {

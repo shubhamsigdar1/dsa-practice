@@ -1,4 +1,4 @@
-package DSA.Array;
+// package DSA.Array;
 
 public class CellswithOddValuesinaMatrix {
     public int oddCells(int m, int n, int[][] indices) {

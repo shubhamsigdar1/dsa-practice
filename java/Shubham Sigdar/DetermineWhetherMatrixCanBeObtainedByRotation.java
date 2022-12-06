@@ -1,4 +1,4 @@
-package DSA.Array;
+// package DSA.Array;
 
 public class DetermineWhetherMatrixCanBeObtainedByRotation {
     static void rotate(int[][] mat){

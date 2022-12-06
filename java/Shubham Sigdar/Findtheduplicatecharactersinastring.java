@@ -1,4 +1,4 @@
-package DSA.Array;
+// package DSA.Array;
 
 //In this program, we need to find the duplicate characters in the string.
 //string1 = "Great responsibility"

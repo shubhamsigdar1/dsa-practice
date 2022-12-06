@@ -1,4 +1,4 @@
-package DSA.Array;
+// package DSA.Array;
 
 //In this program, we need to find the smallest and the largest word present in the string
 //string="Hardships often prepare ordinary people for an extraordinary destiny"

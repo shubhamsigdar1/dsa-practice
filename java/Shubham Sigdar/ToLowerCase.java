@@ -1,4 +1,4 @@
-package DSA.Array;
+// package DSA.Array;
 
 public class ToLowerCase {
     public String toLowerCase(String s) {

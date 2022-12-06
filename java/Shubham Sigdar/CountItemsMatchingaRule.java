@@ -1,4 +1,4 @@
-package DSA.Array;
+// package DSA.Array;
 //Doubt in arraylist and difference between == and .equals
 import java.util.List;
 

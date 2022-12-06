@@ -1,4 +1,4 @@
-package DSA.Array;
+// package DSA.Array;
 
 //String str = "grass is greener on the other side"
 public class Findmaximumandminimumoccurringcharacterinastring {

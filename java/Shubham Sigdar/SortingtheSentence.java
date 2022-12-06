@@ -1,4 +1,4 @@
-package DSA.Array;
+// package DSA.Array;
 //A sentence is a list of words that are separated by a single space with no leading or trailing spaces. Each word consists of lowercase and uppercase English letters.
 //
 //        A sentence can be shuffled by appending the 1-indexed word position to each word then rearranging the words in the sentence.

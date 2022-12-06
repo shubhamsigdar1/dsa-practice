@@ -1,4 +1,4 @@
-package DSA.Array;
+// package DSA.Array;
 
 public class DivideastringinNequalparts {
     public static void main(String[] args) {

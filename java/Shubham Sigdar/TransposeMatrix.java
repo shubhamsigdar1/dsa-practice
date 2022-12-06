@@ -1,4 +1,4 @@
-package DSA.Array;
+// package DSA.Array;
 
 public class TransposeMatrix {
         public  int[][] transpose(int[][] A){
